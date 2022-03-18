@@ -15,5 +15,6 @@ Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](h
 
 *********************************************************************************************************************************************************************
 
-You can see the result here:
+**If you want to, you can check out the result here:**
+
 https://codepen.io/deboracode/pen/KKZzKBN
